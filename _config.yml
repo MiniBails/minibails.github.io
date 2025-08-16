@@ -3,3 +3,4 @@ title: MiniBails's homepage
 description: Bookmark this to keep an eye on my project updates!
 include:
   - assets/css/custom.css
+  - _includes/head-custom.html
